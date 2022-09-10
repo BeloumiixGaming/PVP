@@ -1,0 +1,8 @@
+Utilisation des scripts :
+
+PvP pour pouvoir utiliser des armes et se battre sur FiveM
+mumble-voip  pour pouvoir parler en jeu
+rp radio  pour utiliser la radio en jeu MAJ + F9 
+vSync pour changer le temps et la meteo avec la commande weather et time
+
+Si vous avez des questions n'hesitez pas à me contacter sur discord
